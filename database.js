@@ -1,8 +1,24 @@
 const livros = [
   {
-    título: "Orgulho e Preconceito",
+    título: "A Cantiga dos Pássaros e das Serpentes",
+    categoria: "Distopia",
+    páginas: 574,
+    lido: true,
+    recomenda: false,
+  },
+
+  {
+    título: "Comer, Rezar, Amar",
     categoria: "Romance",
-    páginas: 424,
+    páginas: 344,
+    lido: true,
+    recomenda: true,
+  },
+
+  {
+    título: "Fahrenheit 451",
+    categoria: "Distopia",
+    páginas: 215,
     lido: true,
     recomenda: true,
   },
@@ -16,25 +32,9 @@ const livros = [
   },
 
   {
-    título: "Comer, Rezar, Amar",
+    título: "Orgulho e Preconceito",
     categoria: "Romance",
-    páginas: 344,
-    lido: true,
-    recomenda: true,
-  },
-
-  {
-    título: "A Cantiga dos Pássaros e das Serpentes",
-    categoria: "Distopia",
-    páginas: 574,
-    lido: true,
-    recomenda: false,
-  },
-
-  {
-    título: "Fahrenheit 451",
-    categoria: "Distopia",
-    páginas: 215,
+    páginas: 424,
     lido: true,
     recomenda: true,
   },

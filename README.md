@@ -1,4 +1,4 @@
-# hwllogica-III
+# hwlogica-III
 
 <h1><strong>Heeey!</strong></h1>
 
